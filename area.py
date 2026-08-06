@@ -1,0 +1,8 @@
+b=float(input("Enter value of base "))
+h=float(input("Enter value of height "))
+r=float(input("Enter value of radius "))
+s=float(input("Enter value of side "))
+print("Area of triangle is :",1/2*b*h)
+print("Volume of sphere is :",4/3*3.14*r**3)
+print("Area of cylinder is :",2*3.14*r*(r+h))
+print("Area of square is :",s**2)
